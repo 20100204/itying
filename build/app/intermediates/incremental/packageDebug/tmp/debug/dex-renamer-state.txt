@@ -1,0 +1,4 @@
+#Tue Jun 25 11:33:19 CST 2019
+base.0=F\:\\xuexi\\itying\\itying\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
