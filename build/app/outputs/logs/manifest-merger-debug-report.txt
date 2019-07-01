@@ -5,6 +5,10 @@ INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:1:
 INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:1:1-33:12
 INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:1:1-33:12
 MERGED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:fluttertoast] F:\xuexi\itying\itying\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\261a265dc61a16693d2e65e230a74b51\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c564ef09e57582d131cd45c28815b2aa\AndroidManifest.xml:17:1-22:12
 INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -24,6 +28,12 @@ INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml:1
 		ADDED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:1:11-69
 application
 ADDED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\261a265dc61a16693d2e65e230a74b51\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\261a265dc61a16693d2e65e230a74b51\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:22:18-86
 	android:label
 		ADDED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml:11:9-31
 	android:icon
@@ -64,6 +74,14 @@ uses-sdk
 INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml
 INJECTED from F:\xuexi\itying\itying\android\app\src\main\AndroidManifest.xml
+MERGED from [:fluttertoast] F:\xuexi\itying\itying\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] F:\xuexi\itying\itying\build\fluttertoast\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\core-1.0.2.aar\71f3aaf5497578c2e474b508e78e8924\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\261a265dc61a16693d2e65e230a74b51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\261a265dc61a16693d2e65e230a74b51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c564ef09e57582d131cd45c28815b2aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c564ef09e57582d131cd45c28815b2aa\AndroidManifest.xml:20:5-44
 INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml
 INJECTED from F:\xuexi\itying\itying\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
